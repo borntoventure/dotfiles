@@ -1,0 +1,2 @@
+# applies zsh profle to any new screen sessions
+shell -/bin/zsh
