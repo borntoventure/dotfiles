@@ -16,7 +16,6 @@ alias la="ls -lah"
 
 # personal stuff
 alias oldssh="ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -oHostKeyAlgorithms=+ssh-rsa -c aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc "
-alias plex="ssh arnoldb@172.20.1.6"
 
 # cd quickness
 alias ..="cd .."
